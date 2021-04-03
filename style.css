@@ -71,5 +71,31 @@
 }
 
 .item12 {
+  grid-row: 1/3;
+}
 
+.item13 {
+  grid-row: 1/3;
+}
+
+.item14 {
+  grid-row: 3/5;
+  grid-column: 4/6;
+}
+
+.item15 {
+  background-color: rgba(255, 255, 0, .6);
+  grid-row: 4;
+  grid-column: 5;
+}
+
+.item16 {
+  grid-row: 5/6;
+  grid-column: 4/6;
+}
+
+.item17 {
+  background-color: tomato;
+  grid-row: 6/7;
+  grid-column: 4/6;
 }
