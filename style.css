@@ -126,3 +126,39 @@
   grid-column: 7/8;
   background-color: rgba(188, 143, 143, .9);
 }
+
+
+/* .container {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: repeat(5, 2fr) 1fr;
+  grid-gap: 1rem;
+  grid-template-areas:
+  'header1 header2 header2 header3 header4 header5 header5'
+  'header1 header2 header2 header3 header4 header5 header5'
+  'main main main main main main main'
+  'main main main main main main main'
+  'footer footer footer footer footer footer footer'
+  'footer footer footer footer footer footer footer';
+}
+
+.item1 {
+  grid-area: header1;
+  background-color: gray;
+}
+
+.item4 {
+  grid-area: header2;
+}
+
+.item12 {
+  grid-area: header3;
+}
+
+.item13 {
+  grid-area: header4;
+}
+
+.item18 {
+  grid-area: header5;
+} */
